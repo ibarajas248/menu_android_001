@@ -914,6 +914,7 @@ Las funciones de dibujo son lo mas avanzado. Puedes dejarlas para el final.
 
 Esta vista previa representa la pantalla principal actual de la app:
 
-![Captura de pantalla de la app](docs/app-screenshot.svg)
+<img width="342" height="692" alt="image" src="https://github.com/user-attachments/assets/a29ce45b-cec4-4cc4-973f-0fc4d8515e73" />
+
 
 
