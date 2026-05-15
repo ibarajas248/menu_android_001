@@ -1,0 +1,79 @@
+<svg width="390" height="780" viewBox="0 0 390 780" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="390" height="780" fill="#F8F8F8"/>
+  <rect width="390" height="92" fill="#FFFFFF"/>
+  <text x="195" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#262626">Discovery</text>
+
+  <g transform="translate(20 114)">
+    <rect width="157" height="148" rx="5" fill="#FFFFFF"/>
+    <rect width="157" height="148" rx="5" fill="none" stroke="#E8E8E8"/>
+    <path d="M57 51V86M83 51V86M58 52H83V84H58V52ZM51 49C54 37 74 34 88 48M94 47H122V86H94V47Z" stroke="#303030" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M66 61V78M76 61V78" stroke="#FFCE39" stroke-width="3" stroke-linecap="round"/>
+    <text x="78.5" y="106" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#303030">Bares y Hoteles</text>
+    <text x="78.5" y="123" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="600" fill="#9E9E9E">42 lugares</text>
+  </g>
+
+  <g transform="translate(213 114)">
+    <rect width="157" height="148" rx="5" fill="#FFFFFF"/>
+    <rect width="157" height="148" rx="5" fill="none" stroke="#E8E8E8"/>
+    <path d="M58 63H87L120 51M68 84H99M79 27C102 27 105 45 105 45M79 27V20" stroke="#303030" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M69 45C71 29 96 24 108 44" stroke="#FFCE39" stroke-width="3" stroke-linecap="round"/>
+    <text x="78.5" y="106" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#303030">Comida Fina</text>
+    <text x="78.5" y="123" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="600" fill="#9E9E9E">15 lugares</text>
+  </g>
+
+  <g transform="translate(20 284)">
+    <rect width="157" height="148" rx="5" fill="#FFFFFF"/>
+    <rect width="157" height="148" rx="5" fill="none" stroke="#E8E8E8"/>
+    <path d="M49 55H114M58 44H105M61 55H106V91H61V55ZM106 67C127 67 126 88 106 86" stroke="#303030" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="84" cy="74" r="6" stroke="#FFCE39" stroke-width="3"/>
+    <text x="78.5" y="106" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#303030">Cafes</text>
+    <text x="78.5" y="123" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="600" fill="#9E9E9E">28 lugares</text>
+  </g>
+
+  <g transform="translate(213 284)">
+    <rect width="157" height="148" rx="5" fill="#FFCE39"/>
+    <path d="M57 60C66 60 72 67 72 75C72 84 57 101 57 101C57 101 42 84 42 75C42 67 48 60 57 60ZM57 73V73M103 36C111 36 116 42 116 49C116 57 103 71 103 71C103 71 90 57 90 49C90 42 95 36 103 36ZM103 48V48M69 97C103 119 124 75 93 72" stroke="#262626" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="78.5" y="106" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#262626">Cerca de Ti</text>
+    <text x="78.5" y="123" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="600" fill="#565656">34 lugares</text>
+  </g>
+
+  <g transform="translate(20 454)">
+    <rect width="157" height="148" rx="5" fill="#FFFFFF"/>
+    <rect width="157" height="148" rx="5" fill="none" stroke="#E8E8E8"/>
+    <path d="M49 86H112M58 69H97V83H58V69ZM59 69C61 45 94 45 98 69M108 45V83M104 43H120" stroke="#303030" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M67 65H88" stroke="#FFCE39" stroke-width="3" stroke-linecap="round"/>
+    <text x="78.5" y="106" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#303030">Comidas Rapidas</text>
+    <text x="78.5" y="123" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="600" fill="#9E9E9E">29 lugares</text>
+  </g>
+
+  <g transform="translate(213 454)">
+    <rect width="157" height="148" rx="5" fill="#FFFFFF"/>
+    <rect width="157" height="148" rx="5" fill="none" stroke="#E8E8E8"/>
+    <path d="M50 53C85 35 113 42 124 67L65 99L50 53Z" stroke="#303030" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="82" cy="62" r="6" fill="#FFCE39"/>
+    <circle cx="99" cy="75" r="5" fill="#FFCE39"/>
+    <circle cx="72" cy="84" r="4" fill="#FFCE39"/>
+    <text x="78.5" y="106" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#303030">Destacados</text>
+    <text x="78.5" y="123" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="600" fill="#9E9E9E">21 lugares</text>
+  </g>
+
+  <rect y="712" width="390" height="68" fill="#FFFFFF"/>
+  <g font-family="Arial, sans-serif" font-size="8" font-weight="700" text-anchor="middle">
+    <path d="M43 742L58 728L73 742M50 742V754H66V742" stroke="#9E9E9E" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="58" y="766" fill="#9E9E9E">Home</text>
+
+    <path d="M136 727C144 727 150 733 150 741C150 750 136 764 136 764C136 764 122 750 122 741C122 733 128 727 136 727Z" stroke="#FFCE39" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="136" cy="740" r="3" fill="#FFCE39"/>
+    <text x="136" y="766" fill="#FFCE39">Discover</text>
+
+    <rect x="210" y="727" width="18" height="31" rx="2" stroke="#9E9E9E" stroke-width="2.2"/>
+    <text x="219" y="766" fill="#9E9E9E">Bookmark</text>
+
+    <path d="M292 730C306 730 306 747 292 747M281 747H303M292 747V758" stroke="#9E9E9E" stroke-width="2.2" stroke-linecap="round"/>
+    <text x="292" y="766" fill="#9E9E9E">Top Foodie</text>
+
+    <circle cx="349" cy="735" r="6" stroke="#9E9E9E" stroke-width="2.2"/>
+    <path d="M337 758C340 749 358 749 361 758" stroke="#9E9E9E" stroke-width="2.2" stroke-linecap="round"/>
+    <text x="349" y="766" fill="#9E9E9E">Profile</text>
+  </g>
+</svg>
